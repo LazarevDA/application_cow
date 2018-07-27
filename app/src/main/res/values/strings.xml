@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">application</string>
+    <string name="title_number">№ бирки</string>
+    <string name="default_number">000000</string>
+    <string name="default_breed">Джерсейская</string>
+    <string name="title_breed">Порода</string>
+    <string name="title_age">Возраст (лет):</string>
+    <string name="default_age">5</string>
+    <string name="title_suit">Масть</string>
+    <string name="default_suit">Светло-красная</string>
+    <string name="title_birthday">Дата рождения</string>
+    <string name="set_birthday">дата рождения</string>
+    <string name="title_cow_mather">Мать</string>
+    <string name="title_date">Дата</string>
+    <string name="title_milk_yield">Надой</string>
+    <string name="title_weight">Вес коровы</string>
+    <string name="title_fat">Массовая доля жира</string>
+</resources>

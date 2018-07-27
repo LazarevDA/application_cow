@@ -1,0 +1,6 @@
+package com.domain.application.config;
+
+public class Config {
+    public static final String DB_NAME = "db_name";
+    public static final int DB_VERSION = 1;
+}
